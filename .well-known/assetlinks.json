@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.telkom.tracencare.dev",
+      "package_name": "com.telkom.tracencare.dev.debug",
       "sha256_cert_fingerprints":
         ["5D:45:51:F6:A7:A8:30:F5:BE:40:9B:21:15:A6:5B:F9:6C:37:F4:C1:19:CB:38:75:EF:E2:0B:4B:20:97:EE:0F"]
     }
