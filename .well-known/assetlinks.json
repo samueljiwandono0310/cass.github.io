@@ -1,1 +1,11 @@
-test
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.telkom.tracencare",
+      "sha256_cert_fingerprints":
+        ["F9:59:DF:F0:82:8E:0B:A0:C3:15:65:BB:15:01:7D:40:05:49:7E:63:8D:5F:C1:D7:56:EE:F8:81:39:7F:D2:F3"]
+    }
+  }
+]
